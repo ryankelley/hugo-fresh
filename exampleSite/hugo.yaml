@@ -6,7 +6,7 @@ module:
   # uncomment line below for local development of module
   # workspace: hugo.work
   imports:
-    path: github.com/StefMa/hugo-fresh
+    path: github.com/ryankelley/hugo-fresh
 
 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
@@ -53,9 +53,9 @@ params:
     - logo: systek
       url: https://google.com
     - logo: tribe
-      url: https://stefma.github.io/hugo-fresh/
+      url: https://ryankelley.github.io/hugo-fresh/
     - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
+      url: https://github.com/ryankelley/hugo-fresh
     - logo: infinite
       url: https://hugo-fresh.vercel.app/
     - logo: gutwork
@@ -181,14 +181,14 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/StefMa
+    - link: https://github.com/ryankelley
       # Icons are from Font Awesome
       icon: github
     - link: https://dribbble.com/#
       icon: dribbble
     - link: https://facebook.com/#
       icon: facebook
-    - link: https://twitter.com/StefMa91
+    - link: https://twitter.com/ryankelley
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket

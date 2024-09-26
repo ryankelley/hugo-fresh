@@ -1,7 +1,7 @@
-module github.com/StefMa/hugo-fresh/exampleSite
+module github.com/ryankelley/hugo-fresh/exampleSite
 
 go 1.12
 
-replace github.com/StefMa/hugo-fresh => ../
+replace github.com/ryankelley/hugo-fresh => ../
 
-require github.com/StefMa/hugo-fresh v1.0.0 // indirect
+require github.com/ryankelley/hugo-fresh v1.1.0 // indirect
